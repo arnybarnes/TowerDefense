@@ -1,5 +1,5 @@
 # Product Requirements Document (PRD)
-## War Zone Tower Defense
+##  Tower Defense
 
 **Document Type:** Internal Product & Engineering PRD  
 **Status:** Draft  
@@ -10,13 +10,13 @@
 
 ## 1. Purpose
 
-This document defines the functional, technical, and design requirements for *War Zone Tower Defense*. It serves as a single source of truth for product scope, gameplay systems, engineering constraints, and success criteria.
+This document defines the functional, technical, and design requirements for * Tower Defense*. It serves as a single source of truth for product scope, gameplay systems, engineering constraints, and success criteria.
 
 ---
 
 ## 2. Product Overview
 
-War Zone Tower Defense is a wave-based strategy game in which players deploy and upgrade defensive units to prevent enemy forces from reaching a protected objective. The game emphasizes tactical placement, difficulty scaling, and long-term engagement through progression systems.
+ Tower Defense is a wave-based strategy game in which players deploy and upgrade defensive units to prevent enemy forces from reaching a protected objective. The game emphasizes tactical placement, difficulty scaling, and long-term engagement through progression systems.
 
 ---
 
@@ -130,20 +130,11 @@ War Zone Tower Defense is a wave-based strategy game in which players deploy and
 - Data-driven configuration
 - Predictable upgrade scaling
 
-### 10.3 Multiplayer (If Enabled)
-- Server-authoritative logic
-- Deterministic tower behavior
-- Low-latency synchronization
+### 10.3 Platforms
+- iOS and Android
+- Separate layouts for Phone and Tablet, allowing larger game space on Tablets
 
 ---
-
-## 11. Analytics
-
-- Retention (D1/D7)
-- Session length
-- Waves completed
-- Tower usage distribution
-- Upgrade diversity
 
 ---
 
