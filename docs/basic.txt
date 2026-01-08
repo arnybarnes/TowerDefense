@@ -1,0 +1,133 @@
+- birds eye view tower defense game
+
+
+
+This is a wave-based tower defense game set in modern and near-future military environments. Players strategically place and upgrade defensive units (towers) to stop waves of increasingly difficult enemies from reaching a protected objective. The game emphasizes tactical placement, resource management, progression, and replayability.
+
+⸻
+
+2. Goals & Objectives
+
+Player Goals
+	•	Prevent enemies from reaching the base.
+	•	Earn in-game currency through successful defense.
+	•	Unlock, upgrade, and optimize towers.
+	•	Progress through increasingly challenging maps and waves.
+
+Product Goals
+	•	Deliver a highly replayable tower defense experience.
+	•	Balance accessibility for new players with depth for advanced players.
+	•	Encourage long-term engagement via progression systems and unlockables.
+	
+	3. Target Audience
+	•	Primary: Casual to mid-core gamers who enjoy strategy and tower defense games.
+	•	Secondary: Younger players and multiplayer-oriented users who prefer cooperative or competitive play.
+	•	Platform Audience: Players familiar with sandbox or community-driven game platforms.
+
+⸻
+
+4. Core Gameplay Loop
+	1.	Start a match on a selected map.
+	2.	Receive initial resources.
+	3.	Place towers along enemy paths.
+	4.	Enemies spawn in waves.
+	5.	Towers automatically attack enemies.
+	6.	Player upgrades or adds towers between waves.
+	7.	Earn rewards for wave completion.
+	8.	Repeat until victory or base defeat.
+
+⸻
+
+5. Key Features
+
+5.1 Towers
+	•	Types: Infantry, vehicles, artillery, air defense, support units.
+	•	Attributes:
+	•	Damage
+	•	Range
+	•	Fire rate
+	•	Special effects (slow, splash damage, armor piercing)
+	•	Upgrades:
+	•	Tiered upgrade paths
+	•	Visual and performance changes
+
+5.2 Enemies
+	•	Multiple enemy classes with increasing difficulty.
+	•	Variants include:
+	•	Fast units
+	•	Armored units
+	•	Boss enemies
+	•	Each wave introduces new mechanics or combinations.
+
+5.3 Maps
+	•	Military-themed zones (bases, cities, deserts, war zones).
+	•	Fixed enemy paths with strategic choke points.
+	•	Environmental variety affecting placement and tactics.
+
+5.4 Economy
+	•	Currency earned per enemy defeated and wave completed.
+	•	Strategic trade-offs between saving resources and upgrading early.
+	•	Possible bonus rewards for flawless waves.
+
+⸻
+
+6. Progression System
+	•	Player Progression:
+	•	Unlock new towers and upgrades.
+	•	Access higher difficulty maps.
+	•	Session Progression:
+	•	Increasing wave difficulty.
+	•	Scaling enemy health and abilities.
+	•	Meta Progression:
+	•	Persistent unlocks across sessions.
+	•	Cosmetic or prestige rewards.
+
+⸻
+
+7. Game Modes (Optional / Extended)
+	•	Standard Mode: Classic wave-based gameplay.
+	•	Hard / Endless Mode: Infinite waves with escalating difficulty.
+	•	Co-op Mode: Multiple players defend together, sharing or managing resources.
+	•	Challenge Mode: Special rules (limited towers, increased enemy speed, etc.).
+
+⸻
+
+8. User Interface & UX
+	•	Clear visual indicators for:
+	•	Tower range
+	•	Enemy health
+	•	Wave progression
+	•	Simple placement and upgrade controls.
+	•	Minimal learning curve with tooltips or tutorials.
+	•	HUD displaying currency, wave number, and base health.
+
+⸻
+
+9. Technical Requirements
+	•	Stable performance with many active units on screen.
+	•	Predictable enemy pathing and tower targeting logic.
+	•	Scalable difficulty tuning.
+	•	Multiplayer synchronization (if applicable).
+
+⸻
+
+10. Success Metrics
+	•	Player retention (day 1 / day 7).
+	•	Average session length.
+	•	Completion rate of maps and modes.
+	•	Engagement with upgrades and progression systems.
+
+⸻
+
+11. Risks & Considerations
+	•	Balance Risks: Overpowered towers reducing strategy.
+	•	Complexity Creep: Too many mechanics overwhelming new players.
+	•	Performance Load: Large waves impacting frame rate.
+
+⸻
+
+12. Future Enhancements
+	•	New tower classes and enemy factions.
+	•	Seasonal or limited-time events.
+	•	Competitive leaderboards.
+	•	Expanded co-op mechanics.
